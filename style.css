@@ -13,6 +13,7 @@ body {
 
 /* Container central */
 #page {
+    background-image: url(assets/8012752-bandeira-americana-em-estatua-da-liberdade-fundo-embacado-fundo-para-memorial-dia-4-de-julho-dia-do-trabalho-dia-dos-presidentes-dia-da-independencia-foto.jpg);
     max-width: 900px;
     margin: 40px auto;
     background-color: white;
@@ -68,4 +69,8 @@ img {
     h2 {
         font-size: 1.5rem;
     }
+}
+
+ul{
+    margin-left: 24px
 }
