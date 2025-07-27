@@ -8,10 +8,6 @@ A beautiful and informative tourism page showcasing Miami Beach, Florida. Built 
 
 *Stunning Miami Beach skyline with ferris wheel and beach view*
 
-## 🚀 Demo
-
-[Live Demo](https://xmanoelx.github.io/versao-final) <!-- Replace with your actual GitHub Pages URL -->
-
 ## 📋 About This Project
 
 This tourism page was developed as my **"Versão Final"** project, representing an improved and refined version of my web development skills. The project demonstrates advanced HTML and CSS techniques while showcasing Miami Beach's attractions, history, and travel tips with a modern, clean design.
